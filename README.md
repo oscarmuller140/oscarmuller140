@@ -2,8 +2,8 @@
 
 ![Profile Banner](https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-cactus-paysage-desertique-au-coucher-du-soleil_d762b181-d0ee-41ca-8389-d6cb4e3be8d0.png?v=1730361248)
 
-## 🛠 Qué onda
-Si ya llegaste hasta aquí, probablemente ya tienes una idea de lo que hago. Codeo frontend, backend y me meto a DevOps cuando se necesita. Me gusta aprender cosas nuevas, automatizar procesos y hacer que el código fluya bonito.
+## 🛠
+Codeo frontend, backend y me meto a DevOps cuando se necesita. Me gusta aprender cosas nuevas, automatizar procesos.
 
 ![Gif](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif?cid=ecf05e47rfhbtno5263oieexnbb52gbbukjty3boemv44p41&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -20,19 +20,18 @@ Si ya llegaste hasta aquí, probablemente ya tienes una idea de lo que hago. Cod
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### 🔥 En qué me estoy metiendo ahora
-- **Kubernetes** (sí, me gusta sufrir con los contenedores 🐳)
-- **Next.js** (cargando las cosas más rápido que el WiFi del vecino 🚀)
-- **CI/CD** (porque hacer deploys a mano es del siglo pasado 😎)
+- **Kubernetes** 
+- **Next.js** 
+- **CI/CD**
 
 ### 🏆 Cosas que he hecho y me han gustado
-- 📦 **Sistema de Control de Inventario con Next.js** (porque siempre hay algo que se pierde en los almacenes)
-- 🤖 **Chatbot de WhatsApp para agendar citas** (pa’ que los clientes no se olviden de su cita)
-- 📊 **Dashboard con Angular y NestJS** (pura data bonita y bien organizada)
+- 📦 **Sistema de Control de Inventario con Next.js**
+- 🤖 **Chatbot de WhatsApp para agendar citas** 
+- 📊 **Dashboard con Angular y NestJS**
 
 ### 📬 Si quieres platicar de código o de la vida
-💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-📧 Email: tuemail@gmail.com  
-🌐 [Portafolio](https://tusitio.com)
+💼 [LinkedIn](https://linkedin.com/in/oscar-roberto-muller-ochoa-781b12269)  
+📧 Email: oscarmuller.om@gmail.com  
 
 ---
 _✨ "No siempre sé lo que hago, pero funciona, y eso es lo que importa." ✨_
