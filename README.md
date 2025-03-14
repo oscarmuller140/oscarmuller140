@@ -1,13 +1,13 @@
-# 💻 Muller | Full-Stack Developer 🚀
+# 👋 Hey, soy Muller 😎
 
 ![Profile Banner](https://source.unsplash.com/1600x400/?technology,code)
 
-## 👋 ¡Hola! Soy Muller 👨‍💻
-Soy un apasionado desarrollador **full-stack**, con especialización en **frontend** y experiencia en DevOps y servidores. Me encanta explorar nuevas tecnologías y construir soluciones innovadoras.
+## 🛠 Sobre mí
+¡Qué onda! Soy Muller, un dev que le entra al **frontend**, al **backend**, y hasta a los servidores cuando se necesita. Me gusta picarle a todo lo que tenga que ver con código, aprender cosas nuevas y hacer que la magia pase. ✨
 
 ![Gif](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif?cid=ecf05e47rfhbtno5263oieexnbb52gbbukjty3boemv44p41&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-### 🚀 Tecnologías y Herramientas
+### 🚀 Lo que uso para codear
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -19,21 +19,21 @@ Soy un apasionado desarrollador **full-stack**, con especialización en **fronte
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-### 🌱 Actualmente Aprendiendo
-- **Kubernetes** para mejorar la gestión de contenedores en entornos productivos.
-- **Optimización en Next.js** para mejorar el rendimiento y la escalabilidad.
-- **Automatización con CI/CD** en proyectos modernos.
+### 🔥 Lo que ando aprendiendo
+- **Kubernetes** (porque contenedores everywhere 🐳)
+- **Next.js** (pa’ que cargue rapidísimo 🚀)
+- **CI/CD** (para que las cosas se suban solitas 😎)
 
-### 📌 Últimos Proyectos
-🔹 **Sistema de Control de Inventario con Next.js** 🏷️
-🔹 **Chatbot de WhatsApp para agendar citas** 🤖
-🔹 **Dashboard con Angular y NestJS** 📊
+### 🏆 Algunos proyectos chidos
+- 📦 **Sistema de Control de Inventario con Next.js**
+- 🤖 **Chatbot de WhatsApp para agendar citas**
+- 📊 **Dashboard con Angular y NestJS**
 
-### 📫 Contacto
+### 📬 Hablamos 😏
 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
 📧 Email: tuemail@gmail.com  
 🌐 [Portafolio](https://tusitio.com)
 
 ---
-_✨ "La mejor manera de predecir el futuro es creándolo." ✨_
+_✨ "Si lo puedes imaginar, lo puedes programar... probablemente." ✨_
 
