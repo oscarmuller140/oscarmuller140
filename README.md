@@ -5,6 +5,8 @@
 ## 👋 ¡Hola! Soy Muller 👨‍💻
 Soy un apasionado desarrollador **full-stack**, con especialización en **frontend** y experiencia en DevOps y servidores. Me encanta explorar nuevas tecnologías y construir soluciones innovadoras.
 
+![Gif](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif?cid=ecf05e47rfhbtno5263oieexnbb52gbbukjty3boemv44p41&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 ### 🚀 Tecnologías y Herramientas
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
