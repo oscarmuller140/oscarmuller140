@@ -1,11 +1,7 @@
 # 👋😎
-
-![Profile Banner](https://cdn.shopify.com/s/files/1/0657/3100/2634/files/papier-peint-cactus-paysage-desertique-au-coucher-du-soleil_d762b181-d0ee-41ca-8389-d6cb4e3be8d0.png?v=1730361248)
-
+![Gif](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif?cid=ecf05e47rfhbtno5263oieexnbb52gbbukjty3boemv44p41&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ## 🛠
 Codeo frontend, backend y me meto a DevOps cuando se necesita. Me gusta aprender cosas nuevas, automatizar procesos.
-
-![Gif](https://media.giphy.com/media/eoxomXXVL2S0E/giphy.gif?cid=ecf05e47rfhbtno5263oieexnbb52gbbukjty3boemv44p41&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 🚀 Qué estoy usando últimamente
 
