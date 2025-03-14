@@ -47,8 +47,8 @@
 | 🚀 Proyecto | 📜 Descripción | 🛠 Tecnologías |
 |------------|--------------|-------------|
 | 🏢 **Inventario & Resguardos** | Gestión de inventario y resguardos con autenticación | Next.js, NestJS, PostgreSQL |
-| 🤖 **Chatbot de WhatsApp** | Chatbot inteligente para agendar citas | Node.js, FlowDynamic, MongoDB |
-| 📊 **Dashboard de Reportes** | Dashboard con estadísticas interactivas | Angular, Chart.js, NestJS |
+| 🤖 **Chatbot de WhatsApp** | Chatbot inteligente para agendar citas | React, NestJs, MongoDB |
+| 📊 **Dashboard de Reportes** | Dashboard con estadísticas interactivas | Angular, Chart.js, .Net |
 
 ---
 
