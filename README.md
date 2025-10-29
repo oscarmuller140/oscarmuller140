@@ -96,16 +96,6 @@ Dashboard para manejar inventarios en tiempo real con Next.js y PostgreSQL.
 - ⚡ Explorando **Next.js 15** y React Server Components
 - 🔧 Automatizando todo con **GitHub Actions**
 
-## 📊 Mis stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusername&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
 ## 📬 Hablemos
 
 ¿Tienes un proyecto interesante? ¿Quieres platicar de código? ¡Escríbeme!
