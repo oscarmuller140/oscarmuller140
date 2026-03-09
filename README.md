@@ -27,7 +27,30 @@ Actualmente fundando [**M-Solutions**](https://github.com/oscarmuller140) — un
 
 Mi filosofía: **si funciona en producción y el usuario no se queja, hicimos bien el trabajo.**
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │ ● ● ●                 oscar@dev ~ zsh                       │
+  ├──────────────────────────────────────────────────────────────┤
+  │                                                              │
+  │  $ history | grep "built" | head -6                          │
+  │                                                              │
+  │    1  built  kahui-cafe         [next.js + c#]    ☕ POS     │
+  │    2  built  ahorros-app        [react native]    💰 fintech │
+  │    3  built  isaf-intranet      [next.js + .net]  🏛️  gov    │
+  │    4  built  rag-chatbot        [llm + vectors]   🤖 ai     │
+  │    5  built  agenda-whatsapp    [nestjs + docker]  📱 saas   │
+  │    6  built  m-solutions        [next.js + gsap]  🚀 agency │
+  │                                                              │
+  │  $ uptime                                                    │
+  │    5 years, 0 days idle                                      │
+  │                                                              │
+  │  $ npm run life                                              │
+  │    > compiling mass amounts of coffee into mass              │
+  │      amounts of software...                                  │
+  │                                                              │
+  │  █                                                           │
+  └──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
