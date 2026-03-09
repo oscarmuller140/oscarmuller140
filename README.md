@@ -158,14 +158,26 @@ Next.js 16 · React 19 · TypeScript · GSAP · Tailwind CSS 4
 
 ---
 
-## `> htop`
+## `> neofetch`
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oscarmuller140&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmuller140&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
-
-</div>
+```
+                    oscarmuller@dev
+  ╔══════════════╗  ──────────────────────────
+  ║  ┌────────┐  ║  OS:      macOS / Linux / Windows (lo que haya)
+  ║  │ ►_ ~   │  ║  Shell:   bash + git + docker
+  ║  │        │  ║  Uptime:  5+ años escribiendo código
+  ║  │  CODE  │  ║  Pkgs:    React, .NET, Next.js, RN, NestJS
+  ║  │        │  ║  Editor:  VS Code + Cursor + Claude Code
+  ║  └────────┘  ║  Theme:   dark (siempre dark)
+  ║  ┌──┐ ┌──┐  ║  Terminal: el que jale
+  ║  │▓▓│ │▓▓│  ║  CPU:     100% en builds de producción
+  ║  └──┘ └──┘  ║  Memory:  512 tabs de Stack Overflow
+  ╚══════════════╝  Disk:    node_modules/ (99.9%)
+                    ──────────────────────────
+                    Coffee:  ████████████████ 100%
+                    Bugs:    ██░░░░░░░░░░░░░░  12%
+                    Sleep:   ░░░░░░░░░░░░░░░░   0%
+```
 
 ---
 
