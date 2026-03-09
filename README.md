@@ -9,7 +9,7 @@
  ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝
 ```
 
-**Fullstack Developer** · Aguascalientes, MX
+**Fullstack Developer** · Hermosillo, MX
 
 [![LinkedIn](https://img.shields.io/badge/-Oscar_Muller-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-roberto-muller-ochoa-781b12269)
 [![Email](https://img.shields.io/badge/-oscarmuller.om@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oscarmuller.om@gmail.com)
