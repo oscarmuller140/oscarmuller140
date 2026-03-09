@@ -1,121 +1,194 @@
-# 👋 Hey, soy Oscar
-
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</div>
 
-Fullstack Developer que disfruta resolver problemas con código. Llevo 3+ años construyendo aplicaciones web para gobierno y empresas, desde frontends con React hasta APIs con .NET, y metiéndome con Docker cuando hace falta.
-
-## 🛠️ Mi caja de herramientas
-
-**Frontend**
 ```
-React ⚛️ | Angular 🅰️ | Next.js ▲ | TypeScript 💙
+ ██████╗ ███████╗ ██████╗ █████╗ ██████╗     ███╗   ███╗
+██╔═══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗    ████╗ ████║
+██║   ██║███████╗██║     ███████║██████╔╝    ██╔████╔██║
+██║   ██║╚════██║██║     ██╔══██║██╔══██╗    ██║╚██╔╝██║
+╚██████╔╝███████║╚██████╗██║  ██║██║  ██║    ██║ ╚═╝ ██║
+ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝     ╚═╝
 ```
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Backend**
-```
-NestJS 🐱 | .NET 🟣 | C# | Node.js 🟢
-```
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Fullstack Developer** · Aguascalientes, MX
 
-**Databases & AI**
-```
-PostgreSQL 🐘 | MongoDB 🍃 | SQL Server | Vector DBs 🤖
-```
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**DevOps**
-```
-Docker 🐋 | Kubernetes ☸️ | Azure ☁️ | CI/CD 🚀
-```
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
-</div>
-
-## 💼 ¿En qué he trabajado?
-
-### 🏛️ ISAF - Instituto Superior de Auditoría (2024 - Presente)
-- Desarrollo de sitios gubernamentales con React y .NET (500+ usuarios diarios)
-- Implementé CI/CD en Azure y reduje el tiempo de deployment un 40%
-- Mejoré la eficiencia operativa en 30% con sistemas internos
-
-### 💻 DGSIF - Dirección de Sistemas (2022 - 2024)
-- Creé 15+ APIs RESTful con C# y .NET
-- Migré 3 sistemas viejos a Angular (35% más rápidos)
-- Administré servidores Linux con Nginx (99.5% uptime)
-
-## 🚀 Proyectos que me enorgullecen
-
-### 🤖 Sistema RAG con IA para Análisis de Documentos
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhyZWw3YnRqOWNvMTB5ZWF2OGNyZ2NkbWF3aWU5aGJ4MnIyYWd6dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
-
-Un chatbot inteligente que analiza documentos empresariales usando vector databases y LLMs. Básicamente, le das PDFs y responde preguntas con fuentes verificables.
-
-**Stack:** Vector Databases, RAG, LLM, Prompt Engineering
-
----
-
-### 📅 Agendador Multi-Negocio con WhatsApp
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
-
-App fullstack que permite a varios negocios gestionar sus citas directo desde WhatsApp. Con microservicios y todo el rollo.
-
-**Stack:** React, Nest.js, MongoDB, Docker, WhatsApp API
-
----
-
-### 📦 Sistema de Control de Inventario
-Dashboard para manejar inventarios en tiempo real con Next.js y PostgreSQL.
-
-**Stack:** Next.js, PostgreSQL, Prisma
-
-<br clear="right"/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</div>
-
-## 🔥 Aprendiendo ahora mismo
-
-- 🎯 Profundizando en **Kubernetes** (porque Docker ya no es suficiente)
-- ⚡ Explorando **Next.js 15** y React Server Components
-- 🔧 Automatizando todo con **GitHub Actions**
-
-## 📬 Hablemos
-
-¿Tienes un proyecto interesante? ¿Quieres platicar de código? ¡Escríbeme!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-roberto-muller-ochoa-781b12269)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscarmuller.om@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oscarmuller140)
+[![LinkedIn](https://img.shields.io/badge/-Oscar_Muller-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-roberto-muller-ochoa-781b12269)
+[![Email](https://img.shields.io/badge/-oscarmuller.om@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:oscarmuller.om@gmail.com)
+[![GitHub](https://img.shields.io/badge/-oscarmuller140-181717?style=flat&logo=github&logoColor=white)](https://github.com/oscarmuller140)
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
-  
-  ### 💡 *"El código funciona y nadie sabe por qué. No toques nada."*
-</div>
+## `> whoami`
+
+Llevo **5+ años** construyendo software que la gente realmente usa. Desde sistemas gubernamentales con 500+ usuarios diarios hasta apps móviles para finanzas personales, pasando por puntos de venta para cafeterías y chatbots con IA.
+
+Actualmente fundando [**M-Solutions**](https://github.com/oscarmuller140) — una agencia de desarrollo tech.
+
+Mi filosofía: **si funciona en producción y el usuario no se queja, hicimos bien el trabajo.**
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+---
+
+## `> cat tech-stack.yml`
+
+```yaml
+frontend:
+  frameworks:    [ React, Next.js, Angular, React Native ]
+  language:      TypeScript (siempre strict mode, sin excusas)
+  styling:       [ Tailwind CSS, Shadcn UI ]
+  state:         [ TanStack Query, Zustand, React Hook Form ]
+  animations:    [ GSAP, Framer Motion, Reanimated ]
+
+backend:
+  primary:       [ .NET 8 / C#, NestJS, Node.js ]
+  architecture:  [ Clean Architecture, REST APIs, Microservices ]
+  auth:          [ JWT + Refresh Tokens, Azure AD ]
+
+data:
+  relational:    [ PostgreSQL, SQL Server ]
+  nosql:         [ MongoDB ]
+  ai:            [ RAG, Vector DBs, LLMs, Prompt Engineering ]
+
+devops:
+  containers:    [ Docker, Kubernetes ]
+  cloud:         [ Azure (Blob Storage, Pipelines, DevOps) ]
+  cicd:          [ GitHub Actions, Azure Pipelines ]
+  servers:       [ Linux, Nginx ]
+
+mobile:
+  framework:     React Native / Expo SDK 54
+  platforms:     [ iOS, Android ]
+```
+
+---
+
+## `> ls -la proyectos/`
+
+### `drwxr-xr-x  kahui-cafe/` — POS para Kahui Café
+> *Sistema punto de venta completo para una cafetería real*
+
+Sistema de gestión interno construido como **PWA** con catálogos de productos, categorías, ingredientes y extras. Incluye vista mobile-responsive con cards, búsqueda paginada del lado del servidor, y manejo de inventario en tiempo real.
+
+```
+Next.js 15 · React 19 · TypeScript · .NET / C# · Tailwind CSS 4 · Shadcn UI · TanStack Query · Zustand
+```
+
+---
+
+### `drwxr-xr-x  ahorros-app/` — App de Finanzas Personales
+> *Tu cartera, pero en tu celular y sin el polvo*
+
+App móvil para el mercado mexicano (MXN) con diseño estilo Airbnb. Cuentas, transacciones, presupuestos, metas de ahorro, reportes y hasta OCR de tickets con IA. Backend en Clean Architecture con .NET 8.
+
+```
+React Native · Expo SDK 54 · TypeScript · .NET 8 · PostgreSQL · Zustand · Victory Charts
+```
+
+**Features destacados:**
+- Floating pill tab bar con animaciones spring
+- JWT + refresh token rotation
+- Módulo AI próximo: chat assistant + receipt OCR
+
+---
+
+### `drwxr-xr-x  isaf-intranet/` — Sistema Gubernamental
+> *500+ usuarios diarios y contando*
+
+Sistema de gestión interna para el Instituto Superior de Auditoría y Fiscalización. Módulos de inventario IT, apoyos económicos, directorio de empleados, viáticos, actas de entrega-recepción y más. Deployment automatizado con Azure Pipelines.
+
+```
+Next.js 15 · React 19 · .NET · Azure · Docker · TypeScript · Tailwind CSS 4
+```
+
+---
+
+### `drwxr-xr-x  rag-chatbot/` — Sistema RAG con IA
+> *Le das PDFs, te responde con fuentes verificables*
+
+Chatbot inteligente que analiza documentos empresariales usando vector databases y LLMs. Retrieval-Augmented Generation para respuestas precisas y citadas.
+
+```
+Vector Databases · RAG · LLM · Prompt Engineering
+```
+
+---
+
+### `drwxr-xr-x  agenda-whatsapp/` — Agendador Multi-Negocio
+> *Porque nadie contesta llamadas, pero todos leen WhatsApp*
+
+App fullstack que permite a múltiples negocios gestionar sus citas directo desde WhatsApp. Arquitectura de microservicios con Docker.
+
+```
+React · NestJS · MongoDB · Docker · WhatsApp Business API
+```
+
+---
+
+### `drwxr-xr-x  m-solutions/` — Mi Agencia Tech *(en desarrollo)*
+> *Fundando mi propia empresa de desarrollo*
+
+Landing page con diseño **Editorial Neubrutal** — tipografía masiva, borders de 4px, grids asimétricos, animaciones GSAP y dark mode. Porque si vas a hacer una agencia tech, tu sitio no puede verse genérico.
+
+```
+Next.js 16 · React 19 · TypeScript · GSAP · Tailwind CSS 4
+```
+
+---
+
+## `> experience --format=timeline`
+
+```
+2026          M-Solutions (Fundador)
+  │           Agencia de desarrollo tech
+  │
+2024 ────── ISAF - Instituto Superior de Auditoría y Fiscalización
+  │           → Sistemas gubernamentales con React + .NET (500+ usuarios/día)
+  │           → CI/CD en Azure → deployment time -40%
+  │           → Eficiencia operativa +30% con sistemas internos
+  │
+2022 ────── DGSIF - Dirección General de Sistemas
+  │           → 15+ APIs RESTful con C# y .NET
+  │           → Migración de 3 sistemas legacy a Angular (35% más rápidos)
+  │           → Admin de servidores Linux + Nginx (99.5% uptime)
+  │
+2021 ────── Inicio del viaje
+```
+
+---
+
+## `> htop`
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusername&color=blueviolet&style=flat-square&label=Visitas+al+perfil" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=oscarmuller140&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmuller140&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="49%" />
+
+</div>
+
+---
+
+## `> tail -f learning.log`
+
+```
+[2026-03-09] Profundizando en Kubernetes ☸️ — porque Docker solo ya no alcanza
+[2026-03-09] Fundando M-Solutions — de freelancer a empresa
+[2026-03-09] React Native + Expo SDK 54 — apps nativas con TypeScript
+[2026-03-09] RAG + Vector DBs — haciendo que la IA cite sus fuentes
+```
+
+---
+
+<div align="center">
+
+```
+$ git log --oneline -1
+a1b2c3d fix: el código funciona y nadie sabe por qué. no toques nada.
+```
+
+**¿Proyecto interesante? ¿Quieres platicar de código?**
+
+Manda DM, el café lo pongo yo ☕
+
 </div>
